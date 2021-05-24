@@ -1,0 +1,25 @@
+{
+  "name": "gitbook-plugin-katex-pro",
+  "description": "Math typesetting using KaTex into GitBook",
+  "main": "index.js",
+  "version": "0.13.11",
+  "engines": {
+    "gitbook": ">=3.0.0"
+  },
+  "homepage": "https://github.com/WindSpiritSR/gitbook-plugin-katex-pro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WindSpiritSR/gitbook-plugin-katex-pro.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/WindSpiritSR/gitbook-plugin-katex-pro/issues"
+  },
+  "dependencies": {
+    "katex": "^0.13.11"
+  },
+  "keywords": [
+    "math",
+    "latex"
+  ]
+}
