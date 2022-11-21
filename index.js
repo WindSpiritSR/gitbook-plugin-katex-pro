@@ -3,13 +3,18 @@ const katex = require('katex')
 module.exports = {
   book: {
     assets: './static',
-    js: [],
+    js: [
+      'katex.min.js'
+    ],
     css: [
       'katex.min.css'
     ]
   },
   ebook: {
     assets: './static',
+    js: [
+      'katex.min.js'
+    ],
     css: [
       'katex.min.css'
     ]
